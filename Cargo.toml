@@ -1,0 +1,11 @@
+[package]
+name = "drought-api"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-web = "4.10.2"
+dotenv = "0.15.0"
+serde = "1.0.219"
+serde_json = "1.0.140"
+tokio = "1.44.0"
